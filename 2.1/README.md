@@ -1,4 +1,4 @@
-# Esercizio
+# Disegna una griglia, minimizzando le linee di codice
 
 Il frammento di codice a sinistra disegna un quadrato, usando una **procedura** `drawBox()` definita da me.
 

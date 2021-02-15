@@ -1,4 +1,4 @@
-# Esercizio
+# Disegna un quadrato
 
 Il frammento di codice a sinitra disegna un quadrato, muovendo la tartaruga in senso **antiorario**. Prova ad eseguire il codice, cliccando sul tasto "Run".
 

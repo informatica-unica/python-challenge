@@ -1,4 +1,4 @@
-# Esercizio
+# Disegna una griglia, risparmiando inchiostro
 
 Il frammento di codice allegato definisce una nuova procedura:
 

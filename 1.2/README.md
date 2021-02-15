@@ -1,7 +1,6 @@
-# Esercizio
+# Disegna una griglia
 
 Disegna una griglia 3x3:
-
  
 
 # Comandi

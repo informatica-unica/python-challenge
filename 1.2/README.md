@@ -3,8 +3,6 @@
 Disegna una griglia 3x3:
  
 
-# Comandi
-
 I comandi da usare sono i seguenti.
 
 

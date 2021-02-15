@@ -1,4 +1,4 @@
-**Disegna 3 pallini**
+# Disegna 3 pallini
 
 Nel frammento di codice allegato ho introdotto una nuova procedura:
 

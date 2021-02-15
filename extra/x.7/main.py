@@ -1,4 +1,4 @@
-mport turtle, random
+import turtle, random
 screen = turtle.Screen()
 
 t = turtle.Turtle()

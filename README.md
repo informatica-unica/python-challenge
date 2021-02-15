@@ -1,1 +1,1 @@
-# python
+# Laboratorio di Informatica

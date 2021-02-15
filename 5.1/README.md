@@ -1,4 +1,4 @@
-** Quiz **
+# Quiz
 
 Il programma allegato implementa un semplice quiz di due domande.
 

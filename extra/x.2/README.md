@@ -1,6 +1,6 @@
 # Disegna cerchi concentrici
 
-Il programma qui a sinistra disegna 10 cerchi, di colori alternati blu e rossi. Per ottenere questo comportamento, ad ogni iterazione del ciclo `for` uso il costrutto `if ... else`.
+Il programma allegato disegna 10 cerchi, di colori alternati blu e rossi. Per ottenere questo comportamento, ad ogni iterazione del ciclo `for` uso il costrutto `if ... else`.
 
 ```
 if b==0 :

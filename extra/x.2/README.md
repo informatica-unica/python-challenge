@@ -4,25 +4,10 @@ Il programma qui a sinistra disegna 10 cerchi, di colori alternati blu e rossi. 
 
 ```
 if b==0 :
-```
-
-```
   t.color("Red") 
-```
-
-```
   b = 1
-```
-
-```
 else :
-```
-
-```
   t.color("Blue")
-```
-
-```
   b = 0
 ```
 

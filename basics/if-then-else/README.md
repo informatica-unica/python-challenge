@@ -1,6 +1,6 @@
 # Costrutto condizionale
 
-Il programma allegato introduce il costrutto condizionale, che permette ad un programma di eseguire istruzioni diverse in base al verificarsi o meno di una condizione.
+Il programma allegato introduce il costrutto condizionale, che permette di eseguire istruzioni diverse in base al verificarsi o meno di una condizione.
 
 Dopo aver letto il nome dell'utente e la sua password da tastiera, il programma confronta la password inserita dall'utente con quella memorizzata nella variabile `pwd`. Se le due password sono uguali, allora il programma stampa un messaggio rassicurante, altrimenti stampa due messaggi di errore.
 

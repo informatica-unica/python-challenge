@@ -23,3 +23,4 @@
   * [*Esercizio:* tabelline](https://github.com/bitbart/labinf/tree/main/5.2)
   * [*Extra:* la tartaruga pigra](https://github.com/bitbart/labinf/tree/main/extra/tartaruga-pigra)
   * [*Extra:* disegna cerchi concentrici](https://github.com/bitbart/labinf/tree/main/extra/cerchi-concentrici)
+  * [*Extra:* Achille e la tartaruga](https://github.com/bitbart/labinf/tree/main/extra/achille-e-la-tartaruga)

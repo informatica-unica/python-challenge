@@ -5,7 +5,7 @@ Il programma allegato introduce il costrutto condizionale, che permette ad un pr
 Dopo aver letto il nome dell'utente e la sua password da tastiera, il programma confronta la password inserita dall'utente con quella memorizzata nella variabile `pwd`. Se le due password sono uguali, allora il programma stampa un messaggio rassicurante, altrimenti stampa due messaggi di errore.
 
 Il formato generale del costrutto condizionale e' il seguente:
-```
+```python
 if condizione:
     # queste istruzioni vengono eseguite se condizione e' vera
     istruzione V1;

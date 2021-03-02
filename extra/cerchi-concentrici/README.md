@@ -2,7 +2,7 @@
 
 Il programma allegato disegna 10 cerchi, di colori alternati blu e rossi. Per ottenere questo comportamento, ad ogni iterazione del ciclo `for` uso il costrutto `if ... else`.
 
-```
+```python
 if b==0 :
   t.color("Red") 
   b = 1
@@ -13,7 +13,7 @@ else :
 
 Questo costrutto permette di eseguire un blocco di comandi oppure un altro, a seconda che la "guardia" dell'`if` sia vera o falsa. Nel codice a sinistra, la guardia è:
 
-```
+```python
 b == 0
 ```
 

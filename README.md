@@ -18,6 +18,6 @@
   * [*Esercizio:* disegna tanti pallini](https://github.com/bitbart/labinf/tree/main/4.2)
 
 * Lezione 5
-  * [*Teoria*: costrutto condizionale](https://github.com/bitbart/labinf/tree/main/if-then-else)
+  * [*Teoria*: costrutto condizionale](https://github.com/bitbart/labinf/tree/main/basics/if-then-else)
   * [*Esercizio:* quiz](https://github.com/bitbart/labinf/tree/main/5.1)
   * [*Esercizio:* tabelline](https://github.com/bitbart/labinf/tree/main/5.2)

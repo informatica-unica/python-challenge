@@ -1,7 +1,7 @@
 # Laboratorio di Informatica
 
 * Lezione 1
-  * [*Teoria:* input-output](https://github.com/bitbart/labinf/tree/main/basics/input-output)
+  * [*Teoria:* input-output da console](https://github.com/bitbart/labinf/tree/main/basics/input-output)
   * [*Esercizio:* disegna un quadrato](https://github.com/bitbart/labinf/tree/main/1.1)
   * [*Esercizio:* disegna una griglia 3x3](https://github.com/bitbart/labinf/tree/main/1.2)
 

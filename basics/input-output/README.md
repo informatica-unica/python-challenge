@@ -1,4 +1,4 @@
-# Input-output
+# Input-output da console
 
 Il programma allegato mostra come leggere messaggi dalla tastiera, e come stampare messaggi sulla console. Prova ad eseguire il programma, inserendo da tastiera quanto richiesto, e osservando cosa viene stampato sulla console.
 

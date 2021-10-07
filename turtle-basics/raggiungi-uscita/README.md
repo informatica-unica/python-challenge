@@ -1,5 +1,5 @@
-# Completa il rettangolo
+# Raggiungi l'uscita
 
-Il frammento di codice allegato disegna due lati di un rettangolo.
+Il frammento di codice allegato disegna un labirinto (in rosso), al cui interno si trova la tartaruga pippo (in nero).
 
-Aiuta la tartaruga a completare il rettangolo, tornando al punto di partenza.
+Aiuta pippo ad uscire dal labirinto.

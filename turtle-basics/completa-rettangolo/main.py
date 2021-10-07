@@ -1,15 +1,16 @@
-# Il programma disegna un quadrato, in senso antiorario.
+# uso le funzioni della libreria turtle
+import turtle                
 
-import turtle
+# creo una tartaruga chiamata pippo
+pippo = turtle.Turtle()
 
-pippo = turtle.Turtle(); # crea una tartaruga, chiamata pippo
+# dico a pippo di muoversi in avanti di 150 unita'
+pippo.forward(150)
 
-pippo.forward(100);
-pippo.left(90);
-pippo.forward(100);
-pippo.left(90);
-pippo.forward(100);
-pippo.left(90);
-pippo.forward(100);
+# ruota di 90 gradi a sinistra
+pippo.left(90)
 
-turtle.done()
+# disegno il secondo lato del rettangolo
+pippo.forward(75)
+
+# aggiungere il codice qui sotto (non modificare le righe sopra questo commento)

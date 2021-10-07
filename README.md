@@ -2,7 +2,7 @@
 
 * Esercitazione 1
   * [*Teoria:* disegna con la tartaruga](https://github.com/bitbart/labinf/tree/main/turtle-basics/turtle-demo)
-  * [*Esercizio:* complata il rettangolo](https://github.com/bitbart/labinf/tree/main/turtle-basics/completa-rettangolo)
+  * [*Esercizio:* completa il rettangolo](https://github.com/bitbart/labinf/tree/main/turtle-basics/completa-rettangolo)
   * [*Esercizio:* raggiungi l'uscita](https://github.com/bitbart/labinf/tree/main/turtle-basics/raggiungi-uscita)
 
 * Esercitazione 2

@@ -4,12 +4,12 @@
   * [*Teoria:* disegna con la tartaruga](https://github.com/bitbart/labinf/tree/main/turtle-basics/turtle-demo)
   * [*Esercizio:* completa il rettangolo](https://github.com/bitbart/labinf/tree/main/turtle-basics/completa-rettangolo)
   * [*Esercizio:* raggiungi l'uscita](https://github.com/bitbart/labinf/tree/main/turtle-basics/raggiungi-uscita)
+  * [*Esercizio:* disegna una griglia](https://github.com/bitbart/labinf/tree/main/turtle-basics/griglia-3-per-3/)
 
 * Esercitazione 2
   * [*Teoria:* input-output da console](https://github.com/bitbart/labinf/tree/main/basics/input-output)
-  * [*Esercizio:* disegna una griglia, minimizzando le linee di codice](https://github.com/bitbart/labinf/tree/main/2.1)
-  * [*Esercizio:* disegna una griglia, risparmiando inchiostro](https://github.com/bitbart/labinf/tree/main/2.2)
-
+  
+  
 * Esercitazione 3
   * [*Esercizio:* disegna una faccia](https://github.com/bitbart/labinf/tree/main/3.1)
   * [*Esercizio:* una libreria per disegnare facce](https://github.com/bitbart/labinf/tree/main/3.2)

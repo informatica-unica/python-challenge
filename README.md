@@ -19,7 +19,6 @@
   * TBA
   
 * Esercitazione 5: esercizi facili di programmazione
-  * [*Esercizio:* quiz](https://github.com/bitbart/labinf/tree/main/5.1)
-  * [*Esercizio:* tabelline](https://github.com/bitbart/labinf/tree/main/5.2)
+  * [*Esercizio:* tabelline](https://github.com/bitbart/labinf/tree/main/summary-exercises/tabelline)
   * TBA
   

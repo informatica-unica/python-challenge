@@ -38,7 +38,3 @@ pippo.right(90)
 
 # per vedere l'effetto della rotazione, faccio avanzare pippo di 150 unita'
 pippo.forward(150)
-
-# il comando goto serve per spostare la tartaruga ad una posizione assoluta
-# notare che la tartaruga continua a lasciare la scia
-pippo.goto(0,0)

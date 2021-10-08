@@ -23,8 +23,8 @@ print ("No, mi sbagliavo! Il tuo preferito e' il " + colorePreferito)
 # stampa "come ti chiami" sulla console
 print ("come ti chiami? ");
 
-# legge una stringa da tastiera
-# e la assegna alla variabile "nome"
+# legge una stringa da tastiera e la assegna alla variabile nome
+# per terminare l'inserimento, premi il tasto invio sulla console
 nome = input();
 
 # stampa un messaggio di saluto. L''operatore + concatena due stringhe

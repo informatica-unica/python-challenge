@@ -1,29 +1,10 @@
 # Input-output da console e assegnamento
 
-Il programma allegato mostra come leggere messaggi dalla tastiera, e come stampare messaggi sulla console. Prova ad eseguire il programma, inserendo da tastiera quanto richiesto, e osservando cosa viene stampato sulla console.
+Il programma allegato introduce nuovi comandi:
+- **=** (si legge: **assegnamento**): memorizzare un valore in una variabile
+- **print**: stampa un messaggio sulla console
+- **input**: legge un messaggio dalla tastiera. 
 
-Fatto questo, studia il programma. La prima istruzione e' questa:
-```
-print ("come ti chiami? ");
-```
-L'effetto di questa istruzione e' di stampare sulla console la stringa racchiusa tra le virgolette.
+Dopo averlo studiato con attenzione, prova ad eseguire il programma, inserendo da tastiera quanto richiesto, e osservando cosa viene stampato sulla console. 
 
-L'istruzione successiva e' piu' complessa: 
-```
-nome = input();
-```
-L'effetto e' il seguente. Il programma legge da tastiera un messaggio di testo. Una volta che l'utente ha terminato l'inserimento (premendo il tasto invio), il messaggio inserito viene **assegnato** alla variabile `nome`. 
-
-La terza istruzione del programma:
-```
-print ("ciao, " + nome);
-```
-stampa la stringa `ciao`, seguita dal contenuto della **variabile** `nome`, ovvero il messaggio inserito in precedenza dall'utente. L'operatore + serve per concatenare due stringhe.
-
-Il resto del programma e' una variazione sul tema del frammento appena visto.
-
-Per esercizio, scrivi un programma che chiede all'utente il suo nome, qual e' la sua pizza preferita, e qual e' il suo dolce preferito, e stampa sulla console un messaggio del tipo:
-
-```
-ciao, Pippo! La tua pizza preferita e' Margherita, mentre il tuo dolce preferito e' Castagnaccio
-```
+Prova a fare piccole modifiche al programma, e studiano l'effetto eseguendolo.

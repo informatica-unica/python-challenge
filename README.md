@@ -7,7 +7,7 @@
   * [Disegna una griglia](https://github.com/bitbart/labinf/tree/main/turtle-basics/griglia-3-per-3/)
   * [Disegna una faccia](https://github.com/bitbart/labinf/tree/main/turtle-basics/disegna-una-faccia/)
 
-* Esercitazione 2: input-output e assegnamento
+* Esercitazione 2: input-output da console e assegnamento
   * [*Teoria:* input-output da console](https://github.com/bitbart/labinf/tree/main/input-output/input-output)
   * TBA
   

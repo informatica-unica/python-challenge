@@ -6,8 +6,7 @@ Ad esempio, se i numeri inseriti dall'utente sono 5, 8 e 5, il programma deve st
 ```
 La media di 5, 8 e 5 e': 6
 ```
-
-Mentre se i numeri inseriti sono 5, 8 e 4, il programma stampera':
+mentre se i numeri inseriti sono 5, 8 e 4, il programma stamperà:
 ```
-La media di 5, 8 e 8 e': 5
+La media di 5, 8 e 4 e': 5
 ```

@@ -5,8 +5,6 @@
 # qui sto dicendo che voglio usare le funzioni della libreria turtle
 import turtle                
 
-wn = turtle.Screen()
-
 # creo una tartaruga, chiamata pippo
 # il nome della tartaruga non e' importante: scegliete il nome che preferite
 # nello stesso programma posso usare anche piu' tartarughe, con nomi diversi
@@ -18,7 +16,7 @@ pippo = turtle.Turtle()
 pippo.speed(1)
 
 # il comando forward serve per far avanzare la tartaruga
-# qui sto mandando avanti pippo di 100 unita'
+# qui sto mandando avanti pippo di 300 unita'
 # (notare che la tartaruga guarda verso destra)
 pippo.forward(300)
 
@@ -28,9 +26,9 @@ pippo.forward(300)
 pippo.left(90)
 
 # anziche' un numero, posso usare una espressione aritmetica
-# qui, sto usando l'espressione 2*(100+20), che vale 240
-# (il simbolo asterisco denota la moltiplicazione)
-pippo.forward(2*(100+20))
+# qui, sto usando l'espressione (2*(100+20)/3)-5, che vale 75
+# (il simbolo asterisco denota la moltiplicazione, / la divisione)
+pippo.forward(2*(100+20)/3 - 5)
 
 # il comando right fa l'opposto del comando left:
 # ruota la tartaruga in senso orario 
@@ -38,8 +36,8 @@ pippo.forward(2*(100+20))
 # (notare che adesso la tartaruga guarda verso destra)
 pippo.right(90)
 
-# per vedere l'effetto della rotazione, faccio avanzare pippo di 200 unita'
-pippo.forward(200)
+# per vedere l'effetto della rotazione, faccio avanzare pippo di 150 unita'
+pippo.forward(150)
 
 # il comando goto serve per spostare la tartaruga ad una posizione assoluta
 # notare che la tartaruga continua a lasciare la scia

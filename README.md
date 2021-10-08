@@ -8,11 +8,11 @@
   * [*Esercizio:* disegna una faccia](https://github.com/bitbart/labinf/tree/main/turtle-basics/disegna-una-faccia/)
 
 * Esercitazione 2: input-output e assegnamento
-  * [*Teoria:* input-output da console](https://github.com/bitbart/labinf/tree/main/basics/input-output)
+  * [*Teoria:* input-output da console](https://github.com/bitbart/labinf/tree/main/input-output/input-output)
   * TBA
   
 * Esercitazione 3: scelta e causalità
-  * [*Teoria*: costrutto condizionale](https://github.com/bitbart/labinf/tree/main/basics/if-then-else)
+  * [*Teoria*: costrutto condizionale](https://github.com/bitbart/labinf/tree/main/if-then-else/if-then-else)
   * TBA
 
 * Esercitazione 4: iterazione

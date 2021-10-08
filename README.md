@@ -8,7 +8,7 @@
   * [Disegna una faccia](https://github.com/bitbart/labinf/tree/main/turtle-basics/disegna-una-faccia/)
 
 * Esercitazione 2: input-output da console e assegnamento
-  * [*Teoria:* input-output da console](https://github.com/bitbart/labinf/tree/main/input-output/input-output)
+  * [*Teoria:* input-output da console e assegnamento](https://github.com/bitbart/labinf/tree/main/input-output/input-output)
   * TBA
   
 * Esercitazione 3: scelta e causalità

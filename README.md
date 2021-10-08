@@ -5,6 +5,7 @@
   * [*Esercizio:* completa il rettangolo](https://github.com/bitbart/labinf/tree/main/turtle-basics/completa-rettangolo)
   * [*Esercizio:* raggiungi l'uscita](https://github.com/bitbart/labinf/tree/main/turtle-basics/raggiungi-uscita)
   * [*Esercizio:* disegna una griglia](https://github.com/bitbart/labinf/tree/main/turtle-basics/griglia-3-per-3/)
+  * [*Esercizio:* disegna una faccia](https://github.com/bitbart/labinf/tree/main/turtle-basics/disegna-una-faccia/)
 
 * Esercitazione 2: input-output e assegnamento
   * [*Teoria:* input-output da console](https://github.com/bitbart/labinf/tree/main/basics/input-output)

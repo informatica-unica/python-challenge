@@ -10,6 +10,7 @@
 * Esercitazione 2: input-output da console e assegnamento
   * [*Teoria:* input-output da console e assegnamento](https://github.com/bitbart/labinf/tree/main/input-output/input-output)
   * [La pizza preferita](https://github.com/bitbart/labinf/tree/main/input-output/pizza-preferita)
+  * [Inversione](https://github.com/bitbart/labinf/tree/main/input-output/inversione)
   * TBA
   
 * Esercitazione 3: scelta e causalità

@@ -12,8 +12,8 @@
   * [La pizza preferita](https://github.com/bitbart/labinf/tree/main/input-output/pizza-preferita)
   * [Inversione](https://github.com/bitbart/labinf/tree/main/input-output/inversione)
   * [Media aritmetica](https://github.com/bitbart/labinf/tree/main/input-output/media-aritmetica)
-  * TBA
-  
+  * [Rettangolo custom](https://github.com/bitbart/labinf/tree/main/input-output/rettangolo-custom)
+    
 * Esercitazione 3: scelta e causalità
   * [*Teoria*: costrutto condizionale](https://github.com/bitbart/labinf/tree/main/if-then-else/if-then-else)
   * TBA

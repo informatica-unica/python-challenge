@@ -18,8 +18,9 @@
   * [*Teoria*: costrutto condizionale](https://github.com/bitbart/labinf/tree/main/if-then-else/if-then-else)
   * [Il pranzo è servito](https://github.com/bitbart/labinf/tree/main/if-then-else/il-pranzo-e-servito)
   * [Vietato ai minori](https://github.com/bitbart/labinf/tree/main/if-then-else/vietato-ai-minori)
+  * [*Teoria*: numeri casuali](https://github.com/bitbart/labinf/tree/main/if-then-else/random)
+  * [Indovina il numero](https://github.com/bitbart/labinf/tree/main/if-then-else/indovina-il-numero)
   * [Tartaruga pigra](https://github.com/bitbart/labinf/tree/main/if-then-else/tartaruga-pigra)
-  * TBA
 
 * Esercitazione 4: iterazione
   * TBA

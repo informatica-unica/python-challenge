@@ -1,19 +1,41 @@
+### non editare il programma fino alla linea 35
 import turtle
 import random
 
-t = turtle.Turtle()
+def controllaSoluzione(x,y,z,d):
+  if d == min(x,y,z):
+    print ("Soluzione corretta!")
+  else:
+    print ("Soluzione errata!!!")
+    print ("La distanza calcolata e' " + str(distanza) + " anziche' " + str(min(x,y,z)))
 
-# scegli x1 random compreso tra 0 e 300
+pippo = turtle.Turtle()
 x1 = random.randint(0,300) 
-# scegli x2 random compreso tra 0 e 300
 x2 = random.randint(0,300)
+x3 = random.randint(0,300) 
+print(x1,x2,x3)
+pippo.color("red")
+pippo.up()
+pippo.goto(x1,0)
+pippo.dot(5)
+pippo.goto(x2,0)
+pippo.dot(5)
+pippo.goto(x3,0)
+pippo.dot(5)
+pippo.goto(0,0)
+pippo.down()
+pippo.color("black")
+distanza = 0
 
-# stampa x1 ed x2 sulla console
-print(x1,x2) 
+### pippo deve raggiungere il pallino rosso piu' vicino 
+### la variabile distanza deve contenere la distanza percorsa da pippo
+### importante: non e' consentito usare la funzione min
+
+### aggiungere il codice qui sotto ###
 
 
-if x1<x2:
-  t.forward(x1)
-else:
-  t.forward(x2)
 
+
+### non toccare le linee sotto: devono essere le ultime del programma
+pippo.forward(distanza)
+controllaSoluzione(x1,x2,x3,distanza)

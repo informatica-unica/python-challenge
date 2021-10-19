@@ -16,6 +16,7 @@
     
 * Esercitazione 3: scelta e causalità
   * [*Teoria*: costrutto condizionale](https://github.com/bitbart/labinf/tree/main/if-then-else/if-then-else)
+  * [Tartaruga pigra](https://github.com/bitbart/labinf/tree/main/if-then-else/tartaruga-pigra)
   * TBA
 
 * Esercitazione 4: iterazione

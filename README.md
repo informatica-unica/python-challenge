@@ -16,6 +16,7 @@
     
 * Esercitazione 3: scelta e causalità
   * [*Teoria*: costrutto condizionale](https://github.com/bitbart/labinf/tree/main/if-then-else/if-then-else)
+  * [Il pranzo è servito](https://github.com/bitbart/labinf/tree/main/if-then-else/il-pranzo-e-servito)
   * [Vietato ai minori](https://github.com/bitbart/labinf/tree/main/if-then-else/vietato-ai-minori)
   * [Tartaruga pigra](https://github.com/bitbart/labinf/tree/main/if-then-else/tartaruga-pigra)
   * TBA

@@ -14,7 +14,7 @@
   * [Media aritmetica](https://github.com/bitbart/labinf/tree/main/input-output/media-aritmetica)
   * [Rettangolo custom](https://github.com/bitbart/labinf/tree/main/input-output/rettangolo-custom)
     
-* Esercitazione 3: scelta e causalità
+* Esercitazione 3: scelta e casualità
   * [*Teoria*: costrutto condizionale](https://github.com/bitbart/labinf/tree/main/if-then-else/if-then-else)
   * [Il pranzo è servito](https://github.com/bitbart/labinf/tree/main/if-then-else/il-pranzo-e-servito)
   * [Vietato ai minori](https://github.com/bitbart/labinf/tree/main/if-then-else/vietato-ai-minori)

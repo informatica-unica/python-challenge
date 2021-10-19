@@ -18,7 +18,4 @@ else:
     ...
 ```
 
-Notare che le istruzioni dentro il ramo `if` e dentro il ramo `else` possono a loro volta essere dei costrutti condizionali.
-
-Per esercizio, estendi il programma in modo che se l'utente sbaglia ad inserire la password al primo tentativo, il programma concede una seconda opportunita' per inserire la password.
-
+Notare che le istruzioni dentro il ramo `if` e dentro il ramo `else` possono a loro volta essere dei costrutti condizionali. Nell'esempio, questa caratterostica e' usata per permettere all'utente di reinserire la password, se la prima volta ha sbagliato ad inserirla. Inoltre, il programma memorizza nella variabile `tentativiErrati` il numero di tentativi errati.

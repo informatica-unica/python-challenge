@@ -19,7 +19,7 @@
   * [Matricola pari o dispari](https://github.com/bitbart/labinf/tree/main/if-then-else/matricola-pari-o-dispari)
   * [Il pranzo è servito](https://github.com/bitbart/labinf/tree/main/if-then-else/il-pranzo-e-servito)
   * [Vietato ai minori](https://github.com/bitbart/labinf/tree/main/if-then-else/vietato-ai-minori)
-  * [*Teoria*: numeri casuali](https://github.com/bitbart/labinf/tree/main/if-then-else/random)
+  * [*Teoria*: numeri pseudocasuali](https://github.com/bitbart/labinf/tree/main/if-then-else/random)
   * [Testa o croce](https://github.com/bitbart/labinf/tree/main/if-then-else/testa-o-croce)
   * [Indovina il numero](https://github.com/bitbart/labinf/tree/main/if-then-else/indovina-il-numero)
   * [Tartaruga pigra](https://github.com/bitbart/labinf/tree/main/if-then-else/tartaruga-pigra)

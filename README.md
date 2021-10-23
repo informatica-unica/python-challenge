@@ -25,6 +25,7 @@
   * [Tartaruga pigra](https://github.com/bitbart/labinf/tree/main/if-then-else/tartaruga-pigra)
 
 * Esercitazione 4: iterazione
+  * [Indovina il numero bis](https://github.com/bitbart/labinf/tree/main/while/indovina-il-numero-bis)
   * TBA
   
 * Esercitazione 5: esercizi facili di programmazione

@@ -26,6 +26,7 @@
 
 * Esercitazione 4: iterazione
   * [Indovina il numero bis](https://github.com/bitbart/labinf/tree/main/while/indovina-il-numero-bis)
+  * [Validazione dell'input](https://github.com/bitbart/labinf/tree/main/while/validazione-input)
   * TBA
   
 * Esercitazione 5: esercizi facili di programmazione

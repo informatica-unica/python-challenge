@@ -25,6 +25,7 @@
   * [Tartaruga pigra](https://github.com/bitbart/labinf/tree/main/if-then-else/tartaruga-pigra)
 
 * Esercitazione 4: iterazione
+  * [Conto alla rovescia](https://github.com/bitbart/labinf/tree/main/while/conto-alla-rovescia)
   * [Filastrocca](https://github.com/bitbart/labinf/tree/main/while/filastrocca)
   * [Indovina il numero bis](https://github.com/bitbart/labinf/tree/main/while/indovina-il-numero-bis)
   * [Validazione dell'input](https://github.com/bitbart/labinf/tree/main/while/validazione-input)

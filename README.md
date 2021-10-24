@@ -25,6 +25,7 @@
   * [Tartaruga pigra](https://github.com/bitbart/labinf/tree/main/if-then-else/tartaruga-pigra)
 
 * Esercitazione 4: iterazione
+  * [*Teoria*: costrutto di iterazione](https://github.com/bitbart/labinf/tree/main/while/while)
   * [Pappagallo](https://github.com/bitbart/labinf/tree/main/while/pappagallo)
   * [Conto alla rovescia](https://github.com/bitbart/labinf/tree/main/while/conto-alla-rovescia)
   * [Filastrocca](https://github.com/bitbart/labinf/tree/main/while/filastrocca)

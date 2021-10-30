@@ -1,11 +1,22 @@
 # Quiz
 
-Il programma allegato implementa un semplice quiz di due domande.
+Scrivi un programma con la seguente specifica:
+- il programma genera 2 numeri casuali compresi tra 1 e 10
+- dopodiché, chiede all'utente di inserire da tastiera il loro prodotto
+- se l'utente ha dato la risposta esatta, il programma stampa "Esatto", 
+- altrimenti stampa "Sbagliato: la risposta esatta e' ...", dove al posto dei puntini scrive il prodotto tra i due numeri generati.
 
-Estendere il quiz con **due** tra le seguenti domande:
+Ad esempio, nell'ipotesi che i due numeri generati casualmente siano 3 ed 8, una possibile esecuzione dove l'utente inserisce la risposta corretta è:
 
-  - quanto fa n per m? 
-  - qual è il massimo tra n e m?
-  - il numero x è divisibile per n e per m?
-  
-Nelle domande sopra, i numeri n ed m devono essere generati in modo casuale nell'intervallo [1,10], e x nell'intervallo [50,100].
+```
+Quanto fa 3 per 8?
+24
+Bravo!
+```
+
+Nelle stesse ipotesi, una possibile esecuzione dove l'utente inserisce la risposta sbagliata è:
+```
+Quanto fa 3 per 8?
+38
+Sbagliato: la risposta esatta e' 24
+```

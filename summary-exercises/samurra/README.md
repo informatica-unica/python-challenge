@@ -1,4 +1,4 @@
-# Sa murra
+# Sa Murra
 
 Scrivi un programma che implementa un gioco a due giocatori: un umano contro il computer. Prima di iniziare il gioco, il programma chiede il nome del giocatore umano, e inizializza il punteggio dei due giocatoria 0.
 

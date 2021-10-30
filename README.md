@@ -38,4 +38,5 @@
   * [Tabelline](https://github.com/bitbart/labinf/tree/main/summary-exercises/tabelline)
   * [Biglietti al cinema](https://github.com/bitbart/labinf/tree/main/summary-exercises/cinema)
   * [Sa Murra](https://github.com/bitbart/labinf/tree/main/summary-exercises/samurra)
+  * [Carta, forbice, sasso](https://github.com/bitbart/labinf/tree/main/summary-exercises/cartaforbicesasso)
   * [Cerchi concentrici](https://github.com/bitbart/labinf/tree/main/summary-exercises/cerchi-concentrici)

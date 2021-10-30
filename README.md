@@ -22,6 +22,7 @@
   * [*Teoria*: numeri pseudocasuali](https://github.com/bitbart/labinf/tree/main/if-then-else/random)
   * [Testa o croce](https://github.com/bitbart/labinf/tree/main/if-then-else/testa-o-croce)
   * [Indovina il numero](https://github.com/bitbart/labinf/tree/main/if-then-else/indovina-il-numero)
+  * [Quiz](https://github.com/bitbart/labinf/tree/main/if-then-else/quiz)
   * [Tartaruga pigra](https://github.com/bitbart/labinf/tree/main/if-then-else/tartaruga-pigra)
 
 * Esercitazione 4: iterazione
@@ -35,4 +36,3 @@
 * Esercitazione 5: esercizi facili di programmazione
   * [Tabelline](https://github.com/bitbart/labinf/tree/main/summary-exercises/tabelline)
   * [Cerchi concentrici](https://github.com/bitbart/labinf/tree/main/summary-exercises/cerchi-concentrici)
-  * TBA

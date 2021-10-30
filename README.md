@@ -37,4 +37,5 @@
 * Esercitazione 5: esercizi facili di programmazione
   * [Tabelline](https://github.com/bitbart/labinf/tree/main/summary-exercises/tabelline)
   * [Biglietti al cinema](https://github.com/bitbart/labinf/tree/main/summary-exercises/cinema)
+  * [Sa Murra](https://github.com/bitbart/labinf/tree/main/summary-exercises/samurra)
   * [Cerchi concentrici](https://github.com/bitbart/labinf/tree/main/summary-exercises/cerchi-concentrici)

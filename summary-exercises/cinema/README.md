@@ -1,3 +1,5 @@
+# Biglietti al cinema
+
 Scrivere un programma con la seguente specifica. Il programma calcola l'importo per l'acquisto di biglietti al cinema.
 
 Come primo passo, il programma chiede che venga inserito il numero di spettatori. Fatto questo, per ogni spettatore, il programma chiede l'età e se lo spettatore desidera un posto "VIP".

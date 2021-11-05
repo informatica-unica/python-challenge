@@ -11,6 +11,7 @@
   * [*Teoria:* input-output da console e assegnamento](https://github.com/bitbart/labinf/tree/main/input-output/input-output)
   * [La pizza preferita](https://github.com/bitbart/labinf/tree/main/input-output/pizza-preferita)
   * [Inversione](https://github.com/bitbart/labinf/tree/main/input-output/inversione)
+  * [Addizionatore](https://github.com/bitbart/labinf/tree/main/input-output/addizionatore)
   * [Media aritmetica](https://github.com/bitbart/labinf/tree/main/input-output/media-aritmetica)
   * [Rettangolo custom](https://github.com/bitbart/labinf/tree/main/input-output/rettangolo-custom)
     

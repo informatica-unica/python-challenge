@@ -3,7 +3,7 @@
 # input: come leggere un valore da tastiera (e memorizzarlo in una variabile)
 # output: come scrivere un valore sulla console
 
-# Dichiaro una variabile colorePreferito, e ci memorizzo il valore "fuxia"
+# Dichiaro una variabile colorePreferito, e ci scrivo il valore "fuxia"
 # Il valore "fuxia" e' una sequenza di caratteri. 
 # Le sequenze di caratteri in informatica si chiamano "stringhe"
 # L'operazione di memorizzare un valore ad una variabile si chiama "assegnamento"
@@ -14,10 +14,11 @@ colorePreferito = "fuxia"
 # (ad esempio, "bisc" + "otto" = "biscotto")
 print ("Il tuo preferito e' il " + colorePreferito)
 
-# Adesso assegno il nuovo valore alla variabile colorePreferito...
+# Adesso assegno il nuovo valore alla variabile colorePreferito
+# Il valore vecchio ("fuxia"), viene rimpiattato dal valore nuovo ("vinaccia")
 colorePreferito = "vinaccia"
 
-# ... e stampo il nuovo colore preferito sulla console
+# Stampo il nuovo colore preferito sulla console
 print ("No, mi sbagliavo! Il tuo preferito e' il " + colorePreferito)
 
 # stampa "come ti chiami" sulla console

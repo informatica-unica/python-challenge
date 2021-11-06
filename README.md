@@ -36,6 +36,7 @@
   * [Filastrocca](https://github.com/bitbart/labinf/tree/main/while/filastrocca)
   * [Indovina il numero bis](https://github.com/bitbart/labinf/tree/main/while/indovina-il-numero-bis)
   * [Validazione dell'input](https://github.com/bitbart/labinf/tree/main/while/validazione-input)
+  * [Addizionatore bis](https://github.com/bitbart/labinf/tree/main/while/addizionatore-bis)
   * [Bug](https://github.com/bitbart/labinf/tree/main/while/bug)
   
 * Esercitazione 5: esercizi facili di programmazione

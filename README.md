@@ -3,6 +3,7 @@
 * Esercitazione 1: comandi in sequenza
   * [*Teoria:* disegna con la tartaruga](https://github.com/bitbart/labinf/tree/main/turtle-basics/turtle-demo)
   * [Completa il rettangolo](https://github.com/bitbart/labinf/tree/main/turtle-basics/completa-rettangolo)
+  * [Disegna un quadrato in senso orario](https://github.com/bitbart/labinf/tree/main/turtle-basics/quadrato-in-senso-orario)
   * [Raggiungi l'uscita](https://github.com/bitbart/labinf/tree/main/turtle-basics/raggiungi-uscita)
   * [Disegna una griglia](https://github.com/bitbart/labinf/tree/main/turtle-basics/griglia-3-per-3/)
   * [Disegna una faccia](https://github.com/bitbart/labinf/tree/main/turtle-basics/disegna-una-faccia/)

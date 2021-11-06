@@ -11,6 +11,7 @@
 * Esercitazione 2: input-output da console e assegnamento
   * [*Teoria:* input-output da console e assegnamento](https://github.com/bitbart/labinf/tree/main/input-output/input-output)
   * [Albero di Natale](https://github.com/bitbart/labinf/tree/main/input-output/albero-di-natale)
+  * [Eco](https://github.com/bitbart/labinf/tree/main/input-output/eco)
   * [La pizza preferita](https://github.com/bitbart/labinf/tree/main/input-output/pizza-preferita)
   * [Inversione](https://github.com/bitbart/labinf/tree/main/input-output/inversione)
   * [Addizionatore](https://github.com/bitbart/labinf/tree/main/input-output/addizionatore)

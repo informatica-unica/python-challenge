@@ -22,7 +22,7 @@ print("colore")
 
 # Notare che il risultato dei due comandi e' diverso:
 # print(colore) stampa il contenuto della variabile colore
-# print("colore") stampa la string "colore"
+# print("colore") stampa la stringa "colore"
 
 # Usando nuovamente il comando di assegnamento, possiamo sovrascrivere il
 # valore contenuto di una variabile

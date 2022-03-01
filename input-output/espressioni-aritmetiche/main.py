@@ -16,9 +16,16 @@ h = 3
 
 p = (b + h) * 2
 
-# scrivo l'area del rettangolo nella variabile a
+# le parentesi tonde intorno a b + h serve per far si' che l'addizione
+# venga eseguita prima della moltiplicazione. Se avessi scritto:
+# p = b + h * 2
+# allora il valore assegnato a p sarebbe stato 2 + 3 * 2 = 2 + 6 = 8, anziche' 10
+
+# adesso scrivo l'area del rettangolo nella variabile a
 
 a = b * h
+
+# in questo caso non mi servono le parentesi, perche' ho solo una moltiplicazione
 
 # infine, stampo il risultato
 print("Il perimetro di un rettangolo con base " + str(b) + " e altezza " + str(h) + " e' " + str(p) + ", e la sua area e' " + str(a))

@@ -11,6 +11,7 @@
 * Input-output da console e assegnamento
   * [*Teoria: comando di output (print)*](https://github.com/bitbart/labinf/tree/main/input-output/output)
   * [Albero di Natale](https://github.com/bitbart/labinf/tree/main/input-output/albero-di-natale)
+  * [ASCII art](https://github.com/bitbart/labinf/tree/main/input-output/ascii-art)
   * [Eco](https://github.com/bitbart/labinf/tree/main/input-output/eco)
   * [La pizza preferita](https://github.com/bitbart/labinf/tree/main/input-output/pizza-preferita)
   * [Inversione](https://github.com/bitbart/labinf/tree/main/input-output/inversione)

@@ -18,6 +18,7 @@
   * [Eco](https://github.com/bitbart/labinf/tree/main/input-output/eco)
   * [La pizza preferita](https://github.com/bitbart/labinf/tree/main/input-output/pizza-preferita)
   * [Inversione](https://github.com/bitbart/labinf/tree/main/input-output/inversione)
+  * [*Teoria: espressioni aritmetiche*](https://github.com/bitbart/labinf/tree/main/input-output/espressioni-aritmetiche)
   * [Addizionatore](https://github.com/bitbart/labinf/tree/main/input-output/addizionatore)
   * [Media aritmetica](https://github.com/bitbart/labinf/tree/main/input-output/media-aritmetica)
   * [Rettangolo custom](https://github.com/bitbart/labinf/tree/main/input-output/rettangolo-custom)
@@ -28,7 +29,7 @@
   * [Il pranzo è servito](https://github.com/bitbart/labinf/tree/main/if-then-else/il-pranzo-e-servito)
   * [Vietato ai minori](https://github.com/bitbart/labinf/tree/main/if-then-else/vietato-ai-minori)
 
-* Causalità
+* Casualità
   * [*Teoria: generare numeri pseudocasuali (randint)*](https://github.com/bitbart/labinf/tree/main/if-then-else/random)
   * [Testa o croce](https://github.com/bitbart/labinf/tree/main/if-then-else/testa-o-croce)
   * [Indovina il numero](https://github.com/bitbart/labinf/tree/main/if-then-else/indovina-il-numero)

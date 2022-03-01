@@ -9,7 +9,7 @@
   * [Disegna una faccia](https://github.com/bitbart/labinf/tree/main/turtle-basics/disegna-una-faccia/)
 
 * Input-output da console e assegnamento
-  * [*Teoria: input-output da console e assegnamento*](https://github.com/bitbart/labinf/tree/main/input-output/input-output)
+  * [*Teoria: comando di output (print)*](https://github.com/bitbart/labinf/tree/main/input-output/output)
   * [Albero di Natale](https://github.com/bitbart/labinf/tree/main/input-output/albero-di-natale)
   * [Eco](https://github.com/bitbart/labinf/tree/main/input-output/eco)
   * [La pizza preferita](https://github.com/bitbart/labinf/tree/main/input-output/pizza-preferita)

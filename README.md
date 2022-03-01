@@ -13,6 +13,7 @@
   * [Albero di Natale](https://github.com/bitbart/labinf/tree/main/input-output/albero-di-natale)
   * [ASCII art](https://github.com/bitbart/labinf/tree/main/input-output/ascii-art)
   * [*Teoria: comando di assegnamento (=)*](https://github.com/bitbart/labinf/tree/main/input-output/assegnamento)
+  * [Stampa la data](https://github.com/bitbart/labinf/tree/main/input-output/stampa-la-data)
   * [*Teoria: comando di input (input)*](https://github.com/bitbart/labinf/tree/main/input-output/input)
   * [Eco](https://github.com/bitbart/labinf/tree/main/input-output/eco)
   * [La pizza preferita](https://github.com/bitbart/labinf/tree/main/input-output/pizza-preferita)

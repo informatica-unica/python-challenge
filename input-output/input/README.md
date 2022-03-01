@@ -1,9 +1,7 @@
-# Input-output da console e assegnamento
+# Input da console
 
 Il programma nel file [main.py](main.py) introduce nuovi comandi:
-- **=** (si legge: **assegnamento**): memorizza un valore in una variabile
-- **print**: stampa un messaggio sulla console
-- **input**: legge un messaggio dalla tastiera. 
+- **input**: legge un valore dalla tastiera
 
 Dopo averlo studiato con attenzione, prova ad eseguire il programma, inserendo da tastiera quanto richiesto, e osservando cosa viene stampato sulla console. 
 

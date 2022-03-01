@@ -43,11 +43,11 @@
   * [Pappagallo](https://github.com/bitbart/labinf/tree/main/while/pappagallo)
   * [Conto alla rovescia](https://github.com/bitbart/labinf/tree/main/while/conto-alla-rovescia)
   * [Filastrocca](https://github.com/bitbart/labinf/tree/main/while/filastrocca)
-  * [Albero di Natale custom](https://github.com/bitbart/labinf/tree/main/while/albero-di-natale-custom)
   * [Indovina il numero bis](https://github.com/bitbart/labinf/tree/main/while/indovina-il-numero-bis)
   * [Validazione dell'input](https://github.com/bitbart/labinf/tree/main/while/validazione-input)
   * [Addizionatore bis](https://github.com/bitbart/labinf/tree/main/while/addizionatore-bis)
   * [Bug](https://github.com/bitbart/labinf/tree/main/while/bug)
+  * [Albero di Natale custom](https://github.com/bitbart/labinf/tree/main/while/albero-di-natale-custom)
   
 * Esercizi facili di programmazione
   * [Tabelline](https://github.com/bitbart/labinf/tree/main/summary-exercises/tabelline)

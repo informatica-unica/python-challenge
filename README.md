@@ -26,8 +26,10 @@
 * Scelta
   * [*Teoria: costrutto condizionale (if-else)*](https://github.com/bitbart/labinf/tree/main/if-then-else/if-then-else)
   * [Matricola pari o dispari](https://github.com/bitbart/labinf/tree/main/if-then-else/matricola-pari-o-dispari)
+  * [*Teoria: connettivi logici*](https://github.com/bitbart/labinf/tree/main/if-then-else/connettivi-logici)
   * [Il pranzo è servito](https://github.com/bitbart/labinf/tree/main/if-then-else/il-pranzo-e-servito)
   * [Vietato ai minori](https://github.com/bitbart/labinf/tree/main/if-then-else/vietato-ai-minori)
+  * [Password](https://github.com/bitbart/labinf/tree/main/if-then-else/password)
 
 * Casualità
   * [*Teoria: generare numeri pseudocasuali (randint)*](https://github.com/bitbart/labinf/tree/main/if-then-else/random)

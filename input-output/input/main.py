@@ -2,8 +2,9 @@
 # Il comando input legge un valore inserito dall'utente digitando sulla console.
 # Tale valore viene di solito memorizzato in una variabile tramite il comando di assegnamento, per poi riusarlo successivamente nel programma.
 
-# legge una stringa da tastiera e la assegna alla variabile nome
-# per terminare l'inserimento, premi il tasto invio sulla console
+# Il comando qui sotto legge una stringa da tastiera e la assegna alla variabile nome
+# Per terminare l'inserimento, premi il tasto invio sulla console
+# La stringa "Come ti chiami" tra le parentesi tonde e' opzionale: piu' sotto c'e' un esempio in cui si usa input() e basta
 nome = input("Come ti chiami? ");
 
 # stampa un messaggio di saluto. L'operatore + concatena due stringhe

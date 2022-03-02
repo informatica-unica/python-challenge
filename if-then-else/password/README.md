@@ -2,11 +2,10 @@
 
 Scrivere un programma per il controllo delle password, con la seguente specifica. 
 
-Dopo aver letto il nome dell'utente e la sua password da tastiera, il programma confronta la password inserita dall'utente con quella memorizzata nella variabile pwd. 
+Dopo aver letto il nome dell'utente e la sua password da tastiera, il programma confronta la password inserita dall'utente con quella memorizzata nella variabile `pwd`. 
 
-Se le due password sono uguali, allora il programma stampa un messaggio rassicurante, altrimenti stampa due messaggi di errore.
+Se la password inserita dall'utente coincide con quella nella variabile `pwd`, allora il programma stampa un messaggio di conferma. 
 
-All'utente deve essere permesso di reinserire la password, 
-se la prima volta ha sbagliato ad inserirla. 
+Altrimenti, il programma stampa un messaggio di errore, e chiede all'utente di reinserire la password per un secondo tentativo. 
 
-Il programma deve memorizza in una variabile il numero di tentativi errati.
+Se l'utente sbaglia la password anche al secondo tentativo, il programma segnala un errore, e non permette più all'utente di inserire la password.

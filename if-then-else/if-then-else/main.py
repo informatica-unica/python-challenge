@@ -1,7 +1,7 @@
 # Questo programma illustra l'uso del costrutto if-else
 
 # chiedo all'utente di inserire da tastiera un numero minore di 100,
-# e lo memorizzo nella varabile n
+# e lo memorizzo nella variabile n
 
 n = int(input("Inserisci un numero minore di 100: "))
 

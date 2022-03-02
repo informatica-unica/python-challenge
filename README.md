@@ -28,8 +28,9 @@
   * [Matricola pari o dispari](https://github.com/bitbart/labinf/tree/main/if-then-else/matricola-pari-o-dispari)
   * [*Teoria: connettivi logici*](https://github.com/bitbart/labinf/tree/main/if-then-else/connettivi-logici)
   * [Sconto al cinema](https://github.com/bitbart/labinf/tree/main/if-then-else/sconto-cinema)
-  * [*Teoria: costrutto condizionale (if-elif)*](https://github.com/bitbart/labinf/tree/main/if-then-else/if-elif)
+  * [*Teoria: aggiungere condizioni (if-elif)*](https://github.com/bitbart/labinf/tree/main/if-then-else/if-elif)
   * [Il pranzo è servito](https://github.com/bitbart/labinf/tree/main/if-then-else/il-pranzo-e-servito)
+  * [*Teoria: if annidati*](https://github.com/bitbart/labinf/tree/main/if-then-else/if-elif)
   * [Vietato ai minori](https://github.com/bitbart/labinf/tree/main/if-then-else/vietato-ai-minori)
   * [Password](https://github.com/bitbart/labinf/tree/main/if-then-else/password)
 

@@ -1,30 +1,30 @@
-# Costrutto condizionale: if-else
+# Costrutto condizionale: if-elif
 
-Il costrutto condizionale permette di eseguire istruzioni diverse in base al verificarsi o meno di una condizione.
-Il formato generale del costrutto è il seguente:
+Negli esempi precedenti abbiamo usato il costrutto condizionale per eseguire un comando `cmd1` oppure un altro comando `cmd2` in base al fatto che una condizione `cond1` sia vera o falsa:
 ```python
-if cond:
-  # le istruzioni 1 e 2 vengono eseguite se la guardia cond e' vera
-  istruzione 1;
-  istruzione 2;    
-  ...
+if cond1:
+  cmd1
 else:
-  # le istruzioni 3 e 3 vengono eseguite se la guardia cond e' falsa
-  istruzione 3;
-  istruzione 4;    
-  ...
+  cmd2
 ```
-La guardia usata nel costrutto condizionale è un *espressione booleana*. Ad esempio, sono espressioni booleane:
-* `True`, che è sempre vera
-* `False`, che è sempre falsa
-* `n == 0`, che è vera quando il contenuto della variabile `n` è **uguale** a 0
-* `n != 0`, che è vera quando il contenuto della variabile `n` è **diverso** da 0
-* `n < 5`, che è vera quando il contenuto della variabile `n` è **minore** di 5 
-* `n >= 7`, che è vera quando il contenuto della variabile `n` è **maggiore o uguale** a 7
 
-In Python, le istruzioni che devono essere eseguite nel ramo `then` (ovvero, quando la guardia è vera) e quelle nel ramo `else` (quando la guardia è falsa) sono identificate attraverso dei caratteri di spaziatura. Nell'esempio sopra, ho inserito 2 spazi bianchi a sinistra delle istruzioni 1 e 2, e altrettanti per le istruzioni 3 e 4. Se non avessi inserito alcuno spazio, durante l'esecuzione del programma sarebbe stato segnalato un errore di sintassi.
+Più in generale, è possibile usare il costrutto condizionale per verificare una sequenza di condizioni, ed eseguire il comando corrispondente.
+Ad esempio:
+```python
+if cond1:
+  cmd1
+elif cond2:
+  cmd2
+else:
+  cmd3
+```
 
-Il programma nel file [main.py](main.py) illustra l'uso del costrutto condizionale su un esempio semplice. 
+Il comportamento del programma qui sopra è il seguente:
+* se la condizione `cond1` è vera, allora esegui il comando `cmd1`;
+* altrimenti, se la condizione `cond2` è vera, allora esegui il comando `cmd2`;
+* altrimenti (ovvero, se sia `cond1` che `cond2` sono false), allora esegui il comando `cmd3`.
+
+Il programma nel file [main.py](main.py) illustra l'uso del costrutto `elif` su un esempio semplice. 
 
 Dopo averlo studiato con attenzione, prova ad eseguire il programma e osservando cosa viene stampato sulla console.
 

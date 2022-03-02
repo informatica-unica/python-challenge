@@ -11,16 +11,17 @@ Il programma nel file [main.py](main.py) introduce il comando **print**, che sta
 
 ![Choose template](replit-python.png)
 
-4. Copia il programma nella finestra di testo;
+4. Copia il programma dal file [main.py](main.py) alla finestra di testo su repl.it;
 
 ![Choose template](replit-source.png)
 
-5. Prova a eseguire il programma, cliccando sul tasto "Run";
+5. Prova a eseguire il programma, cliccando sul tasto "Run" verde in alto. 
+6. L'output del programma apparirà sulla **console**, ovvero la finestra nera a fianco di quella con il programma:
 
 ![Choose template](replit-run.png)
 
-6. Per capire meglio l'effetto di ogni comando, prova ad aggiungere alcune linee di codice al programma, o a modificarne qualche linea, 
+7. Per capire meglio l'effetto di ogni comando, prova ad aggiungere alcune linee di codice al programma, o a modificarne qualche linea, 
    e poi prova ad eseguirlo di nuovo per vedere se l'effetto è quello atteso;
    
-7. Se ci sono errori nel programma, verranno scritti dei messaggi nella finestra nera ("Console"); 
-8. Gli errori fanno terminare il programma prematuramente: correggi il programma e assicurati che non ci siano più messaggi di errore in console;
+8. Se ci sono errori nel programma, verranno scritti dei messaggi sulla console; 
+9. Gli errori fanno terminare il programma prematuramente: correggi il programma e assicurati che non ci siano più messaggi di errore in console.

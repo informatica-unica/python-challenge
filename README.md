@@ -27,7 +27,7 @@
   * [*Teoria: costrutto condizionale (if-else)*](https://github.com/bitbart/labinf/tree/main/if-then-else/if-then-else)
   * [Matricola pari o dispari](https://github.com/bitbart/labinf/tree/main/if-then-else/matricola-pari-o-dispari)
   * [*Teoria: connettivi logici*](https://github.com/bitbart/labinf/tree/main/if-then-else/connettivi-logici)
-  * [Sconto al cinema](https://github.com/bitbart/labinf/tree/main/if-then-else/sconto-al-cinema)
+  * [Sconto al cinema](https://github.com/bitbart/labinf/tree/main/if-then-else/sconto-cinema)
   * [*Teoria: costrutto condizionale (if-elif)*](https://github.com/bitbart/labinf/tree/main/if-then-else/if-elif)
   * [Il pranzo è servito](https://github.com/bitbart/labinf/tree/main/if-then-else/il-pranzo-e-servito)
   * [Vietato ai minori](https://github.com/bitbart/labinf/tree/main/if-then-else/vietato-ai-minori)

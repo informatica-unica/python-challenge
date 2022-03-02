@@ -1,4 +1,4 @@
-# Questo programma illustra il costrutto if-elif
+# Questo programma illustra gli if annidati
 
 # chiedo all'utente di inserire da tastiera un numero compreso tra 60 di 100,
 # e lo memorizzo nella variabile n

@@ -1,4 +1,4 @@
-# Costrutto condizionale
+# Costrutto condizionale: if-else
 
 Il costrutto condizionale permette di eseguire istruzioni diverse in base al verificarsi o meno di una condizione.
 Il formato generale del costrutto è il seguente:

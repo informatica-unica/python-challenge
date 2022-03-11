@@ -30,6 +30,7 @@
   * [*Teoria: connettivi logici*](https://github.com/bitbart/labinf/tree/main/if-then-else/connettivi-logici)
   * [Gelato](https://github.com/bitbart/labinf/tree/main/if-then-else/gelato)
   * [Sconto al cinema](https://github.com/bitbart/labinf/tree/main/if-then-else/sconto-cinema)
+  * [Inserisci la data](https://github.com/bitbart/labinf/tree/main/if-then-else/inserisci-data)
   * [*Teoria: aggiungere condizioni (if-elif)*](https://github.com/bitbart/labinf/tree/main/if-then-else/if-elif)
   * [Il pranzo è servito](https://github.com/bitbart/labinf/tree/main/if-then-else/il-pranzo-e-servito)
   * [*Teoria: if annidati*](https://github.com/bitbart/labinf/tree/main/if-then-else/if-elif)

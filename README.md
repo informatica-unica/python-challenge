@@ -8,7 +8,7 @@
   * [Disegna una griglia](https://github.com/bitbart/labinf/tree/main/turtle-basics/griglia-3-per-3/)
   * [Disegna una faccia](https://github.com/bitbart/labinf/tree/main/turtle-basics/disegna-una-faccia/)
 
-* Input-output da console e assegnamento
+* Input-output e assegnamento
   * [*Teoria: comando di output (print)*](https://github.com/bitbart/labinf/tree/main/input-output/output)
   * [Albero di Natale](https://github.com/bitbart/labinf/tree/main/input-output/albero-di-natale)
   * [ASCII art](https://github.com/bitbart/labinf/tree/main/input-output/ascii-art)

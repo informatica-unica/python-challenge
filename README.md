@@ -44,6 +44,7 @@
   * [7, 11 e Doppi](https://github.com/bitbart/labinf/tree/main/random/7-11-doppi)
   * [Settebello](https://github.com/bitbart/labinf/tree/main/random/settebello)
   * [Poker](https://github.com/bitbart/labinf/tree/main/random/poker)
+  * [Scala](https://github.com/bitbart/labinf/tree/main/random/scala)
   * [Minimo](https://github.com/bitbart/labinf/tree/main/random/minimo)
   * [Tartaruga pigra](https://github.com/bitbart/labinf/tree/main/random/tartaruga-pigra)
 

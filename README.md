@@ -41,6 +41,7 @@
   * [Testa o croce](https://github.com/bitbart/labinf/tree/main/if-then-else/testa-o-croce)
   * [Indovina il numero](https://github.com/bitbart/labinf/tree/main/if-then-else/indovina-il-numero)
   * [Quiz](https://github.com/bitbart/labinf/tree/main/if-then-else/quiz)
+  * [Minimo](https://github.com/bitbart/labinf/tree/main/if-then-else/minimo)
   * [Tartaruga pigra](https://github.com/bitbart/labinf/tree/main/if-then-else/tartaruga-pigra)
 
 * Iterazione

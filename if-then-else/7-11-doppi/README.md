@@ -1,9 +1,9 @@
 # 7, 11 e Doppi
 
 Scrivi un programma con il seguente comportamento:
-* il programma lancia due dadi, generando due numeri casuale compresi tra 1 e 6
-* il programma stampa ``hai vinto`` se il lancio dà come esito 7, 11, o due numeri uguali
-* altrimenti, stampa ``hai perso``.
+* il programma genera due numeri casuali compresi tra 1 e 6, che rappresentano il lancio di due dadi;
+* il programma stampa ``Hai vinto`` se il lancio dà come esito 7, 11, o due numeri uguali;
+* altrimenti, stampa ``Hai perso``.
 
 Ad esempio, possibili esecuzioni del programma sono le seguenti:
 ```

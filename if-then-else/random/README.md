@@ -5,7 +5,7 @@ L'esecuzione del calcolatore è completamente deterministica: partendo dallo ste
 Tuttavia, esistono alcuni comandi che *simulano* un comportamento non-deterministico. Uno di questi è il comando `randint`, che serve per generare un numero *pseudo*-casuale in un dato intervallo. Il numero si dice *pseudo*-casuale (anziché *casuale*) perché l'algoritmo usato per generarlo è comunque deterministico.
 
 Nel programma nel file [main.py](main.py) ho usato il comando `randint` per generare un numero tra 1 e 100 (estremi inclusi), ed assegnarlo alla variabile `x`:
-```
+```python
 x = random.randint(1,100)
 ```
 

@@ -42,6 +42,7 @@
   * [Indovina il numero](https://github.com/bitbart/labinf/tree/main/if-then-else/indovina-il-numero)
   * [Quiz](https://github.com/bitbart/labinf/tree/main/if-then-else/quiz)
   * [7, 11 e Doppi](https://github.com/bitbart/labinf/tree/main/if-then-else/7-11-doppi)
+  * [Settebello](https://github.com/bitbart/labinf/tree/main/if-then-else/settebello)
   * [Minimo](https://github.com/bitbart/labinf/tree/main/if-then-else/minimo)
   * [Tartaruga pigra](https://github.com/bitbart/labinf/tree/main/if-then-else/tartaruga-pigra)
 

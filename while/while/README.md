@@ -20,6 +20,10 @@ istruzione 4;
 ```
 
 Il programma nel file [main.py](main.py) usa il costrutto di iterazione per stampare la tabellina del numero scelto dall'utente. 
-A tal fine, il programma chiede all'utente di inserire un numero, e lo memorizza nella variabile `num`. 
-Dopodiché, il programma usa un ciclo `while` per stampare la tabellina di `num`. La guardia del `while` è la condizione logica `i<=10`, 
-che è vera finché la variabile `i` è minore o uguale a 10. La variabile `i` viene inizializzata ad 1, e incrementata ad ogni iterazione.
+Il programma ha la seguente struttura: 
+* chiede all'utente di inserire un numero, e lo memorizza nella variabile `num`;
+* inizializza una variabile `i` ad 1;
+* usa un ciclo `while` per stampare la tabellina di `num`: 
+  * la guardia del `while` è la condizione logica `i<=10`, che è vera fintanto che la variabile `i` è minore o uguale a 10;
+  * la variabile `i` viene incrementata ad ogni iterazione;
+  * in questo modo, quando il valore di `i` diventa 10, la guardia del `while` diventa falsa, e il ciclo termina.

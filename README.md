@@ -42,6 +42,7 @@
   * [Indovina il numero](https://github.com/bitbart/labinf/tree/main/random/indovina-il-numero)
   * [Quiz](https://github.com/bitbart/labinf/tree/main/random/quiz)
   * [7, 11 e Doppi](https://github.com/bitbart/labinf/tree/main/random/7-11-doppi)
+  * [Dado truccato](https://github.com/bitbart/labinf/tree/main/random/dado-truccato)
   * [Settebello](https://github.com/bitbart/labinf/tree/main/random/settebello)
   * [Poker](https://github.com/bitbart/labinf/tree/main/random/poker)
   * [Tris](https://github.com/bitbart/labinf/tree/main/random/tris)

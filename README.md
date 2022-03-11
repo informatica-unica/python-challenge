@@ -63,9 +63,9 @@
   * [Bug](https://github.com/bitbart/labinf/tree/main/while/bug)
   
 * Esercizi facili di programmazione
-  * [Tabelline](https://github.com/bitbart/labinf/tree/main/summary-exercises/tabelline)
-  * [Biglietti al cinema](https://github.com/bitbart/labinf/tree/main/summary-exercises/cinema)
-  * [Pizzata](https://github.com/bitbart/labinf/tree/main/summary-exercises/pizzata)
-  * [Sa Murra](https://github.com/bitbart/labinf/tree/main/summary-exercises/samurra)
-  * [Carta, forbice, sasso](https://github.com/bitbart/labinf/tree/main/summary-exercises/cartaforbicesasso)
-  * [Cerchi concentrici](https://github.com/bitbart/labinf/tree/main/summary-exercises/cerchi-concentrici)
+  * [Tabelline](https://github.com/bitbart/labinf/tree/main/easy-exercises/tabelline)
+  * [Biglietti al cinema](https://github.com/bitbart/labinf/tree/main/easy-exercises/cinema)
+  * [Pizzata](https://github.com/bitbart/labinf/tree/main/easy-exercises/pizzata)
+  * [Sa Murra](https://github.com/bitbart/labinf/tree/main/easy-exercises/samurra)
+  * [Carta, forbice, sasso](https://github.com/bitbart/labinf/tree/main/easy-exercises/cartaforbicesasso)
+  * [Cerchi concentrici](https://github.com/bitbart/labinf/tree/main/easy-exercises/cerchi-concentrici)

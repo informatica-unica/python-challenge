@@ -37,14 +37,14 @@
   * [Password](https://github.com/bitbart/labinf/tree/main/if-then-else/password)
 
 * Casualità
-  * [*Teoria: generare numeri pseudocasuali (randint)*](https://github.com/bitbart/labinf/tree/main/if-then-else/random)
-  * [Testa o croce](https://github.com/bitbart/labinf/tree/main/if-then-else/testa-o-croce)
-  * [Indovina il numero](https://github.com/bitbart/labinf/tree/main/if-then-else/indovina-il-numero)
-  * [Quiz](https://github.com/bitbart/labinf/tree/main/if-then-else/quiz)
-  * [7, 11 e Doppi](https://github.com/bitbart/labinf/tree/main/if-then-else/7-11-doppi)
-  * [Settebello](https://github.com/bitbart/labinf/tree/main/if-then-else/settebello)
-  * [Minimo](https://github.com/bitbart/labinf/tree/main/if-then-else/minimo)
-  * [Tartaruga pigra](https://github.com/bitbart/labinf/tree/main/if-then-else/tartaruga-pigra)
+  * [*Teoria: generare numeri pseudocasuali (randint)*](https://github.com/bitbart/labinf/tree/main/random/randint)
+  * [Testa o croce](https://github.com/bitbart/labinf/tree/main/random/testa-o-croce)
+  * [Indovina il numero](https://github.com/bitbart/labinf/tree/main/random/indovina-il-numero)
+  * [Quiz](https://github.com/bitbart/labinf/tree/main/random/quiz)
+  * [7, 11 e Doppi](https://github.com/bitbart/labinf/tree/main/random/7-11-doppi)
+  * [Settebello](https://github.com/bitbart/labinf/tree/main/random/settebello)
+  * [Minimo](https://github.com/bitbart/labinf/tree/main/random/minimo)
+  * [Tartaruga pigra](https://github.com/bitbart/labinf/tree/main/random/tartaruga-pigra)
 
 * Iterazione
   * [*Teoria: costrutto di iterazione (while)*](https://github.com/bitbart/labinf/tree/main/while/while)

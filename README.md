@@ -42,6 +42,7 @@
   * [Indovina il numero](https://github.com/bitbart/labinf/tree/main/random/indovina-il-numero)
   * [Quiz](https://github.com/bitbart/labinf/tree/main/random/quiz)
   * [7, 11 e Doppi](https://github.com/bitbart/labinf/tree/main/random/7-11-doppi)
+  * [Dado truccato](https://github.com/bitbart/labinf/tree/main/random/dado-truccato)
   * [Settebello](https://github.com/bitbart/labinf/tree/main/random/settebello)
   * [Poker](https://github.com/bitbart/labinf/tree/main/random/poker)
   * [Tris](https://github.com/bitbart/labinf/tree/main/random/tris)
@@ -57,13 +58,14 @@
   * [Indovina il numero bis](https://github.com/bitbart/labinf/tree/main/while/indovina-il-numero-bis)
   * [Validazione dell'input](https://github.com/bitbart/labinf/tree/main/while/validazione-input)
   * [Addizionatore bis](https://github.com/bitbart/labinf/tree/main/while/addizionatore-bis)
-  * [Albero di Natale custom](https://github.com/bitbart/labinf/tree/main/while/albero-di-natale-custom)
   * [Boom](https://github.com/bitbart/labinf/tree/main/while/boom)
+  * [Albero di Natale custom](https://github.com/bitbart/labinf/tree/main/while/albero-di-natale-custom)
   * [Bug](https://github.com/bitbart/labinf/tree/main/while/bug)
   
 * Esercizi facili di programmazione
   * [Tabelline](https://github.com/bitbart/labinf/tree/main/summary-exercises/tabelline)
   * [Biglietti al cinema](https://github.com/bitbart/labinf/tree/main/summary-exercises/cinema)
+  * [Pizzata](https://github.com/bitbart/labinf/tree/main/summary-exercises/pizzata)
   * [Sa Murra](https://github.com/bitbart/labinf/tree/main/summary-exercises/samurra)
   * [Carta, forbice, sasso](https://github.com/bitbart/labinf/tree/main/summary-exercises/cartaforbicesasso)
   * [Cerchi concentrici](https://github.com/bitbart/labinf/tree/main/summary-exercises/cerchi-concentrici)

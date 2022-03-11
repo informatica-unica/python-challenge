@@ -1,8 +1,8 @@
 # Boom
 
 Il gioco del Boom è un semplice gioco numerico con queste regole:
-* i giocatori a turno contano, partendo da 1
-* se il numero corrente è multiplo di 7 oppure contiene 7, allora il giocatore di turno deve dire "Boom".
+* i giocatori contano a turno, dicendo 1, 2, 3, ...
+* se il numero da dire è multiplo di 7 (ad es. 7, 14, 21, ...) oppure contiene 7 (ad es. 17, 27, 170, ...) , allora il giocatore di turno deve dire "Boom".
 
 Implementare il gioco del Boom, con la semplificazione che anziché dire "Boom", il giocatore deve dire 0.
 
@@ -47,16 +47,11 @@ Prossimo numero: 13
 Prossimo numero: 0
 Prossimo numero: 15
 Prossimo numero: 16
-Prossimo numero: 0
-Prossimo numero: 18
-Prossimo numero: 19
-Prossimo numero: 20
-Prossimo numero: 0
-Prossimo numero: 22
-Prossimo numero: 23
-Prossimo numero: 24
-Prossimo numero: 25
-Prossimo numero: 26
-Prossimo numero: 27
+Prossimo numero: 17
 Hai perso!
+```
+
+*Suggerimento*: per controllare se il numero `num` corrente contiene il carattere 7, usare l'espressione booleana:
+```
+"7" in str(num)
 ```

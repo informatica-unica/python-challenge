@@ -57,9 +57,9 @@
   * [Indovina il numero bis](https://github.com/bitbart/labinf/tree/main/while/indovina-il-numero-bis)
   * [Validazione dell'input](https://github.com/bitbart/labinf/tree/main/while/validazione-input)
   * [Addizionatore bis](https://github.com/bitbart/labinf/tree/main/while/addizionatore-bis)
-  * [Bug](https://github.com/bitbart/labinf/tree/main/while/bug)
   * [Albero di Natale custom](https://github.com/bitbart/labinf/tree/main/while/albero-di-natale-custom)
   * [Boom](https://github.com/bitbart/labinf/tree/main/while/boom)
+  * [Bug](https://github.com/bitbart/labinf/tree/main/while/bug)
   
 * Esercizi facili di programmazione
   * [Tabelline](https://github.com/bitbart/labinf/tree/main/summary-exercises/tabelline)

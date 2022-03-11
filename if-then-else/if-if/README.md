@@ -2,7 +2,7 @@
 
 Nelle lezioni precedenti abbiamo visto come eseguire un comando `cmd1` oppure
 un altro comando `cmd2` in base al verificarsi o meno di una condizione `cond1`:
-```
+```python
 if cond1:
   cmd1
 else:
@@ -13,7 +13,7 @@ Il costrutto if-else può essere annidato all'interno di un altro
 per dar luogo a comportamenti più complessi.
 Ad esempio, nel programma qui sopra, il comando `cmd1` può 
 essere un altro comando `if-then` con condizione `cond2`: 
-```
+```python
 if cond1:
   if cond2:
     cmd11

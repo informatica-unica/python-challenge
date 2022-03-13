@@ -57,6 +57,7 @@
   * [Pappagallo](https://github.com/bitbart/labinf/tree/main/while/pappagallo)
   * [Conto alla rovescia](https://github.com/bitbart/labinf/tree/main/while/conto-alla-rovescia)
   * [Filastrocca](https://github.com/bitbart/labinf/tree/main/while/filastrocca)
+  * [1 + 2 + 3 + ...](https://github.com/bitbart/labinf/tree/main/while/1_piu_2_piu_3)
   * [Indovina il numero bis](https://github.com/bitbart/labinf/tree/main/while/indovina-il-numero-bis)
   * [Ciao a tutti](https://github.com/bitbart/labinf/tree/main/while/ciao-a-tutti)
   * [Validazione dell'input](https://github.com/bitbart/labinf/tree/main/while/validazione-input)

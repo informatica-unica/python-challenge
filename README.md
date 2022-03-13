@@ -60,14 +60,14 @@
   * [Indovina il numero bis](https://github.com/bitbart/labinf/tree/main/while/indovina-il-numero-bis)
   * [Validazione dell'input](https://github.com/bitbart/labinf/tree/main/while/validazione-input)
   * [Addizionatore bis](https://github.com/bitbart/labinf/tree/main/while/addizionatore-bis)
-  * [Boom](https://github.com/bitbart/labinf/tree/main/while/boom)
-  * [Albero di Natale custom](https://github.com/bitbart/labinf/tree/main/while/albero-di-natale-custom)
   * [Bug](https://github.com/bitbart/labinf/tree/main/while/bug)
   
 * Esercizi facili di programmazione
   * [Tabelline](https://github.com/bitbart/labinf/tree/main/easy-exercises/tabelline)
   * [Biglietti al cinema](https://github.com/bitbart/labinf/tree/main/easy-exercises/cinema)
   * [Pizzata](https://github.com/bitbart/labinf/tree/main/easy-exercises/pizzata)
+  * [Boom](https://github.com/bitbart/labinf/tree/main/easy-exercises/boom)
+  * [Albero di Natale custom](https://github.com/bitbart/labinf/tree/main/easy-exercises/albero-di-natale-custom)
   * [Sa Murra](https://github.com/bitbart/labinf/tree/main/easy-exercises/samurra)
   * [Carta, forbice, sasso](https://github.com/bitbart/labinf/tree/main/easy-exercises/cartaforbicesasso)
   * [Cerchi concentrici](https://github.com/bitbart/labinf/tree/main/easy-exercises/cerchi-concentrici)

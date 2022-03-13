@@ -1,9 +1,8 @@
 # Ciao a tutti
 
-Scrivi un programma che chiede di inserire il nome di un numero indefinito 
-di nomi, e dice ciao ad ognuno di loro. 
+Scrivi un programma che chiede di inserire il nome di un numero indefinito di utenti, e dice ciao ad ognuno di loro. 
 Per terminare l'inserimento, digitare `nessuno`.
-Quando l'inserimento è terminato, il programma deve stampare il numero di nomi inseriti.
+Quando l'inserimento è terminato, il programma deve stampare il numero di utenti inseriti.
 
 Ad esempio, una possibile esecuzione del programma è la seguente:
 ```

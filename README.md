@@ -60,6 +60,7 @@
   * [Indovina il numero bis](https://github.com/bitbart/labinf/tree/main/while/indovina-il-numero-bis)
   * [Validazione dell'input](https://github.com/bitbart/labinf/tree/main/while/validazione-input)
   * [Addizionatore bis](https://github.com/bitbart/labinf/tree/main/while/addizionatore-bis)
+  * [Media aritmetica bis](https://github.com/bitbart/labinf/tree/main/while/media-aritmetica-bis)
   * [Bug](https://github.com/bitbart/labinf/tree/main/while/bug)
   
 * Esercizi facili di programmazione

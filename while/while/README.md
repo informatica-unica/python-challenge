@@ -1,10 +1,10 @@
 # Costrutto di iterazione
 
-Il costrutto di iterazione `while` permette di eseguire una sequenza di istruzioni una o più volte, in base al verificarsi o meno di una condizione logica.
+Il costrutto di iterazione `while` permette di eseguire una sequenza di istruzioni un numero indefinito volte, in base al verificarsi o meno di una condizione logica.
 Il formato generale del costrutto è il seguente:
 ```python
 while cond:
-    # se la guardia cond e' vera, vengono eseguite le istruzioni 1,2,...,N
+    # se la condizione cond e' vera, vengono eseguite le istruzioni 1,2,...,N
     # nota che le istruzioni sono indentate, come per il costrutto condizionale
     istruzione 1
     istruzione 2    
@@ -13,10 +13,10 @@ while cond:
     # a questo punto torna sopra, alla riga del while
     # se la condizione cond è ancora vera, continua a eseguire il ciclo
     
-# le istruzioni 3 e 3 vengono eseguite quando la guardia cond diventa falsa
-# notare che ho rimosso l'indentazione!
-istruzione 3;
-istruzione 4;    
+# le istruzioni 3 e 4 sono indentate al livello del while, 
+# e vengono eseguite quando la condizione cond diventa falsa
+istruzione 3
+istruzione 4
 ```
 
 Il programma nel file [main.py](main.py) usa il costrutto di iterazione per stampare la tabellina del numero scelto dall'utente. 

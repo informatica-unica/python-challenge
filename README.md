@@ -33,7 +33,7 @@
   * [Inserisci la data](https://github.com/bitbart/labinf/tree/main/if-then-else/inserisci-data)
   * [*Teoria: aggiungere condizioni (if-elif)*](https://github.com/bitbart/labinf/tree/main/if-then-else/if-elif)
   * [Il pranzo è servito](https://github.com/bitbart/labinf/tree/main/if-then-else/il-pranzo-e-servito)
-  * [*Teoria: if annidati*](https://github.com/bitbart/labinf/tree/main/if-then-else/if-elif)
+  * [*Teoria: if annidati*](https://github.com/bitbart/labinf/tree/main/if-then-else/if-if)
   * [Sconto al cinema 2](https://github.com/bitbart/labinf/tree/main/if-then-else/sconto-cinema2)
   * [Vietato ai minori](https://github.com/bitbart/labinf/tree/main/if-then-else/vietato-ai-minori)
   * [Password](https://github.com/bitbart/labinf/tree/main/if-then-else/password)

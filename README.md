@@ -37,7 +37,7 @@
   * [Sconto al cinema 2](https://github.com/bitbart/labinf/tree/main/if-then-else/sconto-cinema2)
   * [Vietato ai minori](https://github.com/bitbart/labinf/tree/main/if-then-else/vietato-ai-minori)
   * [Password](https://github.com/bitbart/labinf/tree/main/if-then-else/password)
-  * [Gelato](https://githib.com/bitbart/labinf/tree/main/if-then-else/gelato)
+  * [Cono o coppetta?](if-then-else/cono-o-coppetta)
 
 * Casualità
   * [*Teoria: generare numeri pseudocasuali (randint)*](https://github.com/bitbart/labinf/tree/main/random/randint)

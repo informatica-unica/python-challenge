@@ -1,6 +1,6 @@
-# Laboratorio di Informatica
+# Python challenge
 
-* Turtle e comandi in sequenza
+## Turtle e comandi in sequenza
   * [*Teoria: disegna con la tartaruga*](https://github.com/bitbart/labinf/tree/main/turtle-basics/turtle-demo)
   * [Completa il rettangolo](https://github.com/bitbart/labinf/tree/main/turtle-basics/completa-rettangolo)
   * [Disegna un quadrato in senso orario](https://github.com/bitbart/labinf/tree/main/turtle-basics/quadrato-in-senso-orario)
@@ -8,7 +8,7 @@
   * [Disegna una griglia](https://github.com/bitbart/labinf/tree/main/turtle-basics/griglia-3-per-3/)
   * [Disegna una faccia](https://github.com/bitbart/labinf/tree/main/turtle-basics/disegna-una-faccia/)
 
-* Input-output e assegnamento
+## Input-output e assegnamento
   * [*Teoria: comando di output (print)*](https://github.com/bitbart/labinf/tree/main/input-output/output)
   * [Albero di Natale](https://github.com/bitbart/labinf/tree/main/input-output/albero-di-natale)
   * [ASCII art](https://github.com/bitbart/labinf/tree/main/input-output/ascii-art)
@@ -23,7 +23,7 @@
   * [Media aritmetica](https://github.com/bitbart/labinf/tree/main/input-output/media-aritmetica)
   * [Rettangolo custom](https://github.com/bitbart/labinf/tree/main/input-output/rettangolo-custom)
     
-* Scelta
+## Scelta
   * [*Teoria: costrutto condizionale (if-else)*](https://github.com/bitbart/labinf/tree/main/if-then-else/if-then-else)
   * [Matricola pari o dispari](https://github.com/bitbart/labinf/tree/main/if-then-else/matricola-pari-o-dispari)
   * [Imposta la password](https://github.com/bitbart/labinf/tree/main/if-then-else/imposta-password)
@@ -39,7 +39,7 @@
   * [Password](https://github.com/bitbart/labinf/tree/main/if-then-else/password)
   * [Cono o coppetta?](if-then-else/cono-o-coppetta)
 
-* Casualità
+## Casualità
   * [*Teoria: generare numeri pseudocasuali (randint)*](https://github.com/bitbart/labinf/tree/main/random/randint)
   * [Testa o croce](https://github.com/bitbart/labinf/tree/main/random/testa-o-croce)
   * [Indovina il numero](https://github.com/bitbart/labinf/tree/main/random/indovina-il-numero)
@@ -53,7 +53,7 @@
   * [Minimo](https://github.com/bitbart/labinf/tree/main/random/minimo)
   * [Tartaruga pigra](https://github.com/bitbart/labinf/tree/main/random/tartaruga-pigra)
 
-* Iterazione
+## Iterazione
   * [*Teoria: costrutto di iterazione (while)*](https://github.com/bitbart/labinf/tree/main/while/while)
   * [Pappagallo](https://github.com/bitbart/labinf/tree/main/while/pappagallo)
   * [Conto alla rovescia](https://github.com/bitbart/labinf/tree/main/while/conto-alla-rovescia)
@@ -66,7 +66,7 @@
   * [Media aritmetica bis](https://github.com/bitbart/labinf/tree/main/while/media-aritmetica-bis)
   * [Bug](https://github.com/bitbart/labinf/tree/main/while/bug)
   
-* Esercizi facili di programmazione
+## Esercizi di programmazione
   * [Tabelline](https://github.com/bitbart/labinf/tree/main/easy-exercises/tabelline)
   * [Biglietti al cinema](https://github.com/bitbart/labinf/tree/main/easy-exercises/cinema)
   * [Pizzata](https://github.com/bitbart/labinf/tree/main/easy-exercises/pizzata)
@@ -74,4 +74,6 @@
   * [Albero di Natale custom](https://github.com/bitbart/labinf/tree/main/easy-exercises/albero-di-natale-custom)
   * [Sa Murra](https://github.com/bitbart/labinf/tree/main/easy-exercises/samurra)
   * [Carta, forbice, sasso](https://github.com/bitbart/labinf/tree/main/easy-exercises/cartaforbicesasso)
+
+## Esercizi con Turtle
   * [Cerchi concentrici](https://github.com/bitbart/labinf/tree/main/easy-exercises/cerchi-concentrici)
